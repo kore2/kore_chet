@@ -1,0 +1,19 @@
+header{
+    background-color: white;
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    border-radius: 0%;
+    display: flex;
+    flex-wrap:wrap;
+
+}
+
+a{
+    display: inline-block;
+    color:white;
+    background-color:aquamarine;
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius : 6px;
+}
+
